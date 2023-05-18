@@ -1,0 +1,9 @@
+/*typedef struct process {
+    char name[10]; // Nome do Programa
+    int pid;
+    Status status; // Estado atual do processo
+    int execTime;
+    int waitTime;
+    int io; // 0: Não 1: Sim
+    struct process* prox;
+} Process;*/
